@@ -4,28 +4,43 @@
         <title>Tabela</title>
     </head>
     <style>
+        /* Adicionando bordas na tabela para melhor visualização */
         table{
             border-collapse:collapse;
             border:1px solid;
         }
-        table td{
+        td{
             border: 1px solid;
         }
     </style>
     <body>
         <h1 align="center">Tabela</h1>
+        
+        <!-- Criando uma tabela -->
         <table align="center">
+
+           <!-- Cabeçalho com semântica -->
             <thead>
+
+                <!-- Texto do cabeçalho -->
                 <th>Cabeçalho</th>
                 <th>da</th>
                 <th>tabela</th>
             </thead>
-            <tr>
+
+            <!-- Corpo da tabela com semântica -->
+            <tbody>
+
+                <!-- Conteúdo das linhas -->
                 <td>Primeiro item</td>
                 <td>Segundo item</td>
                 <td>Terceiro item</td>
-            </tr>
+            </tbody>
+
+            <!-- Rodapé com semântica -->
             <tfoot>
+
+                <!-- Conteúdo do rodapé -->
                 <td>Rodapé</td>
                 <td>da</td>
                 <td>tabela</td>
