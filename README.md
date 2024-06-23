@@ -84,4 +84,4 @@ loop | Também autoexplicativo. Mais usado em audios.
 ---
 <p align="center"><img src="src/midias.png" alt="Imagem de exemplo de midias"></p>
 
-***OBS: Estou explicando cada funcionalidade das tags que estou utilizando com a descrição sobre como foi usado neste repositório, para mais detalhes sobre estas tags veja o site [mdn web doc](#https://developer.mozilla.org/pt-BR/docs/Web/HTML).***
+***OBS: Estou explicando cada funcionalidade das tags que estou utilizando com a descrição sobre como foi usado neste repositório, para mais detalhes sobre estas tags veja o site [mdn web doc](https://developer.mozilla.org/pt-BR/docs/Web/HTML).***
